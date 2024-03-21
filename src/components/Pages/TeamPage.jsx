@@ -8,7 +8,7 @@ import Spacing from '../Spacing';
 import Team from '../Team';
 const teamData = [
   {
-    memberImage: '/images/member_1.jpeg',
+    memberImage: 'https://media.discordapp.net/attachments/1211374771531415594/1220345515808395385/IMG_8637.png?ex=660e9a53&is=65fc2553&hm=9f132192b10ef635b8a5b42f5a3197b6932827a94e51b4fb053dd597904c01de&=&format=webp&quality=lossless&width=437&height=437',
     memberName: 'Melon Bulgery',
     memberDesignation: 'Product Designer',
     memberSocial: {
@@ -19,7 +19,7 @@ const teamData = [
     },
   },
   {
-    memberImage: '/images/member_2.jpeg',
+    memberImage: 'https://media.discordapp.net/attachments/1211374771531415594/1220345515808395385/IMG_8637.png?ex=660e9a53&is=65fc2553&hm=9f132192b10ef635b8a5b42f5a3197b6932827a94e51b4fb053dd597904c01de&=&format=webp&quality=lossless&width=437&height=437',
     memberName: 'Olinaz Fushi',
     memberDesignation: 'Product Designer',
     memberSocial: {
@@ -30,7 +30,7 @@ const teamData = [
     },
   },
   {
-    memberImage: '/images/member_3.jpeg',
+    memberImage: 'https://media.discordapp.net/attachments/1211374771531415594/1220345515808395385/IMG_8637.png?ex=660e9a53&is=65fc2553&hm=9f132192b10ef635b8a5b42f5a3197b6932827a94e51b4fb053dd597904c01de&=&format=webp&quality=lossless&width=437&height=437',
     memberName: 'David Elone',
     memberDesignation: 'React Developer',
     memberSocial: {
@@ -41,7 +41,7 @@ const teamData = [
     },
   },
   {
-    memberImage: '/images/member_4.jpeg',
+    memberImage: 'https://media.discordapp.net/attachments/1211374771531415594/1220345515808395385/IMG_8637.png?ex=660e9a53&is=65fc2553&hm=9f132192b10ef635b8a5b42f5a3197b6932827a94e51b4fb053dd597904c01de&=&format=webp&quality=lossless&width=437&height=437',
     memberName: 'Melina Opole',
     memberDesignation: 'WP Developer',
     memberSocial: {
@@ -52,7 +52,7 @@ const teamData = [
     },
   },
   {
-    memberImage: '/images/member_3.jpeg',
+    memberImage: 'https://media.discordapp.net/attachments/1211374771531415594/1220345515808395385/IMG_8637.png?ex=660e9a53&is=65fc2553&hm=9f132192b10ef635b8a5b42f5a3197b6932827a94e51b4fb053dd597904c01de&=&format=webp&quality=lossless&width=437&height=437',
     memberName: 'David Elone',
     memberDesignation: 'React Developer',
     memberSocial: {
@@ -63,7 +63,7 @@ const teamData = [
     },
   },
   {
-    memberImage: '/images/member_4.jpeg',
+    memberImage: 'https://media.discordapp.net/attachments/1211374771531415594/1220345515808395385/IMG_8637.png?ex=660e9a53&is=65fc2553&hm=9f132192b10ef635b8a5b42f5a3197b6932827a94e51b4fb053dd597904c01de&=&format=webp&quality=lossless&width=437&height=437',
     memberName: 'Melina Opole',
     memberDesignation: 'WP Developer',
     memberSocial: {
@@ -74,7 +74,7 @@ const teamData = [
     },
   },
   {
-    memberImage: '/images/member_1.jpeg',
+    memberImage: 'https://media.discordapp.net/attachments/1211374771531415594/1220345515808395385/IMG_8637.png?ex=660e9a53&is=65fc2553&hm=9f132192b10ef635b8a5b42f5a3197b6932827a94e51b4fb053dd597904c01de&=&format=webp&quality=lossless&width=437&height=437',
     memberName: 'Melon Bulgery',
     memberDesignation: 'Product Designer',
     memberSocial: {
@@ -85,7 +85,7 @@ const teamData = [
     },
   },
   {
-    memberImage: '/images/member_2.jpeg',
+    memberImage: 'https://media.discordapp.net/attachments/1211374771531415594/1220345515808395385/IMG_8637.png?ex=660e9a53&is=65fc2553&hm=9f132192b10ef635b8a5b42f5a3197b6932827a94e51b4fb053dd597904c01de&=&format=webp&quality=lossless&width=437&height=437',
     memberName: 'Olinaz Fushi',
     memberDesignation: 'Product Designer',
     memberSocial: {
