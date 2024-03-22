@@ -37,7 +37,7 @@ export default function Footer({copyrightText, logoSrc, logoAlt, text}) {
       href: '/team'
     },
     {
-      title: 'Contact Us',
+      title: 'Contact',
       href: '/contact'
     },
   ]
@@ -47,12 +47,12 @@ export default function Footer({copyrightText, logoSrc, logoAlt, text}) {
       <Div className="cs-fooer_main">
         <Div className="container">
           <Div className="row">
-            <Div className="col-lg-3 col-sm-4">
+            <Div className="col-lg-3 col-sm-6">
               <Div className="cs-footer_item">
                 <TextWidget 
-                  logoSrc='https://media.discordapp.net/attachments/1211374771531415594/1220765657143054376/Logo_with_white.png?ex=6610219d&is=65fdac9d&hm=a58276b3db394164ade3d96645e63feee9ffaaefa4c9cb667b072a1d2ae8eca1&=&format=webp&quality=lossless&width=1440&height=232' 
+                  logoSrc='/images/logos.png' 
                   logoAlt='Logo'
-                  text ='Maximising influencer potential through expert management and strategic enhancement.'
+                  text ='Welcome to arino sed ut perspiciae omunde omnis iste natus error sitort voluptatem accusantium.'
                 />
                 <SocialWidget/>
               </Div>
@@ -71,6 +71,7 @@ export default function Footer({copyrightText, logoSrc, logoAlt, text}) {
               <Div className="cs-footer_item">
                 <Newsletter 
                   title='Subscribe' 
+                  placeholder='ex@gmail.com'
                 />
               </Div>
             </Div>
