@@ -52,7 +52,7 @@ export default function Footer({copyrightText, logoSrc, logoAlt, text}) {
                 <TextWidget 
                   logoSrc='/images/logos.png' 
                   logoAlt='Logo'
-                  text ='Welcome to arino sed ut perspiciae omunde omnis iste natus error sitort voluptatem accusantium.'
+                  text ='Maximising influencer potential through expert management and strategic enhancement'
                 />
                 <SocialWidget/>
               </Div>

@@ -103,7 +103,7 @@ export default function Home() {
       <div className="container">
         <FunFact
           variant="cs-type1"
-          title="Our achievements"
+          title="Our Achievements"
           subtitle="Step into the vast landscape of influencer marketing. As pioneers in talent management, we navigate space to propel our clients towards unparalleled success."
           data={funfaceData}
         />

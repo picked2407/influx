@@ -85,16 +85,6 @@ export default function AboutPage() {
       <Spacing lg="75" md="55" />
       {/* End About Section */}
 
-      {/* Start Fun Fact Section */}
-      <Div className="container">
-        <FunFact
-          title="Our fun fact"
-          subtitle="Sed ut perspiciatis unde omnis iste natus error voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis."
-          data={funfaceData}
-        />
-      </Div>
-      {/* End Fun Fact Section */}
-
       {/* Start Why Choose Section */}
       <Spacing lg="100" md="80" />
       <Div className="container">
@@ -113,8 +103,8 @@ export default function AboutPage() {
           </Div>
           <Div className="col-xl-5 offset-xl-1 col-lg-6">
             <SectionHeading
-              title="Highly experienced people with us"
-              subtitle="Our Digital Success Partner"
+              title="Why Choose Us?"
+              subtitle="Your Digital Success Partner"
             >
               <Spacing lg="30" md="20" />
               <p className="cs-m0">
