@@ -87,7 +87,7 @@ export default function Home() {
   return (
     <>
       {/* Start Hero Section */}
-      <Hero
+      <Hero 
         title="Empowering Talent <br/>Igniting Success"
         subtitle="Maximising influencer potential through expert management and strategic enhancement."
         btnText="Contact Us"
@@ -103,7 +103,7 @@ export default function Home() {
       <div className="container">
         <FunFact
           variant="cs-type1"
-          title="Our fun fact"
+          title="Our achievements"
           subtitle="Step into the vast landscape of influencer marketing. As pioneers in talent management, we navigate space to propel our clients towards unparalleled success."
           data={funfaceData}
         />
@@ -132,7 +132,7 @@ export default function Home() {
                   <Card
                     title="Management"
                     link="/service/service-details"
-                    src="/images/service_1.jpeg"
+                    src="/images/22.png"
                     alt="Service"
                   />
                   <Spacing lg="0" md="30" />
@@ -142,7 +142,7 @@ export default function Home() {
                   <Card
                     title="Partnerships"
                     link="/service/service-details"
-                    src="/images/service_2.jpeg"
+                    src="https://media.discordapp.net/attachments/1211374771531415594/1220753653351321661/Untitled_design_3.png?ex=6610166f&is=65fda16f&hm=f610e1d8ce9baaf7ce1e8f7849ae88d861d45eea9f477b89eb0a7a8096ff3d78&=&format=webp&quality=lossless&width=437&height=437"
                     alt="Service"
                   />
                   <Spacing lg="0" md="30" />
@@ -151,7 +151,7 @@ export default function Home() {
                   <Card
                     title="Content Creation"
                     link="/service/service-details"
-                    src="/images/service_3.jpeg"
+                    src="/images/33.png"
                     alt="Service"
                   />
                   <Spacing lg="0" md="30" />
@@ -161,7 +161,7 @@ export default function Home() {
                   <Card
                     title="Social Media"
                     link="/service/service-details"
-                    src="/images/service_4.jpeg"
+                    src="/images/55.png"
                     alt="Service"
                   />
                   <Spacing lg="0" md="30" />
