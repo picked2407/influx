@@ -3,29 +3,29 @@ import { useState } from 'react';
 import Div from '../Div';
 const accordionData = [
   {
-    question: 'Do you design illustration website?',
+    question: 'What is influencer marketing in esports and gaming, and how can it benefit my brand?',
     answer:
-      'At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesent voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui.',
+      'Influencer marketing in esports and gaming involves collaborating with content creators to promote products or services to their audiences. It benefits brands by reaching engaged gaming communities, boosting brand awareness, and driving sales.',
   },
   {
-    question: 'Do you provide design source file after finish work?',
+    question: 'Why choose INFLUX for influencer management in esports and gaming?',
     answer:
-      'At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesent voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui.',
+    'With over 10 years of industry experience, we specialise in esports and gaming influencer marketing. We offer tailored solutions including content management, social media, brand development, and brand deals to maximize your brands presence in the esports & entertainment world.'
   },
   {
-    question: 'How to provide project details and payments?',
+    question: 'How do you select and manage creators for our brand within esports and gaming?',
     answer:
-      'At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesent voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui.',
+      'We carefully vet creators who align with your brand and target audience. Our services include content strategy, social media management, and brand partnership negotiation to foster long-term relationships and drive success.',
   },
   {
-    question: 'Can you tell me please how to contact for project?',
+    question: 'What sets INFLUX apart in esports and gaming?',
     answer:
-      'At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesent voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui.',
+      'Our expertise and extensive network in the esports and gaming industry enable us to deliver measurable results. Whether you seek brand visibility, engagement, or sales, we have the insights and strategies to help you achieve your goals.',
   },
   {
-    question: 'Do you makes custom logo, icon etc?',
+    question: 'How can I get started with INFLUX?',
     answer:
-      'At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesent voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui.',
+      'Reach out to us via our contact page or give us a call to schedule a consultation. Well discuss your brand objectives, target audience, and budget to create a tailored influencer marketing strategy that meets your needs.',
   },
 ];
 

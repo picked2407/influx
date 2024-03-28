@@ -5,9 +5,9 @@ import Div from '../Div';
 import Team from '../Team';
 const teamData = [
   {
-    memberImage: '/images/member_1.jpeg',
-    memberName: 'Melon Bulgery',
-    memberDesignation: 'Product Designer',
+    memberImage: '/images/memberr.png',
+    memberName: 'Harry Woodward-Garner',
+    memberDesignation: 'Strategic Advisor',
     memberSocial: {
       linkedin: '/',
       twitter: '/',
@@ -16,9 +16,9 @@ const teamData = [
     },
   },
   {
-    memberImage: '/images/member_2.jpeg',
-    memberName: 'Olinaz Fushi',
-    memberDesignation: 'Product Designer',
+    memberImage: '/images/memb.png',
+    memberName: 'Finley Skynner',
+    memberDesignation: 'Director',
     memberSocial: {
       linkedin: '/',
       twitter: '/',
@@ -27,9 +27,9 @@ const teamData = [
     },
   },
   {
-    memberImage: '/images/member_3.jpeg',
-    memberName: 'David Elone',
-    memberDesignation: 'React Developer',
+    memberImage: '/images/m.png',
+    memberName: 'FEZ',
+    memberDesignation: 'Director',
     memberSocial: {
       linkedin: '/',
       twitter: '/',
@@ -38,9 +38,8 @@ const teamData = [
     },
   },
   {
-    memberImage: '/images/member_4.jpeg',
-    memberName: 'Melina Opole',
-    memberDesignation: 'WP Developer',
+    memberImage: '/images/black.png',
+    memberName: 'Coming Soon',
     memberSocial: {
       linkedin: '/',
       twitter: '/',
@@ -49,9 +48,8 @@ const teamData = [
     },
   },
   {
-    memberImage: '/images/member_1.jpeg',
-    memberName: 'Melon Bulgery',
-    memberDesignation: 'Product Designer',
+    memberImage: '/images/black.png',
+    memberName: 'Coming Soon',
     memberSocial: {
       linkedin: '/',
       twitter: '/',

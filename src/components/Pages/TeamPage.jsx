@@ -8,7 +8,7 @@ import Spacing from '../Spacing';
 import Team from '../Team';
 const teamData = [
   {
-    memberImage: 'https://media.discordapp.net/attachments/1211374771531415594/1220345515808395385/IMG_8637.png?ex=660e9a53&is=65fc2553&hm=9f132192b10ef635b8a5b42f5a3197b6932827a94e51b4fb053dd597904c01de&=&format=webp&quality=lossless&width=437&height=437',
+    memberImage: '/images/black.png',
     memberName: 'Coming Soon',
     memberSocial: {
       linkedin: '/',
@@ -18,7 +18,7 @@ const teamData = [
     },
   },
   {
-    memberImage: 'https://media.discordapp.net/attachments/1211374771531415594/1220345515808395385/IMG_8637.png?ex=660e9a53&is=65fc2553&hm=9f132192b10ef635b8a5b42f5a3197b6932827a94e51b4fb053dd597904c01de&=&format=webp&quality=lossless&width=437&height=437',
+    memberImage: '/images/black.png',
     memberName: 'Coming Soon',
     memberSocial: {
       linkedin: '/',
@@ -28,7 +28,7 @@ const teamData = [
     },
   },
   {
-    memberImage: 'https://media.discordapp.net/attachments/1211374771531415594/1220345515808395385/IMG_8637.png?ex=660e9a53&is=65fc2553&hm=9f132192b10ef635b8a5b42f5a3197b6932827a94e51b4fb053dd597904c01de&=&format=webp&quality=lossless&width=437&height=437',
+    memberImage: '/images/black.png',
     memberName: 'Coming Soon',
     memberSocial: {
       linkedin: '/',
@@ -38,7 +38,7 @@ const teamData = [
     },
   },
   {
-    memberImage: 'https://media.discordapp.net/attachments/1211374771531415594/1220345515808395385/IMG_8637.png?ex=660e9a53&is=65fc2553&hm=9f132192b10ef635b8a5b42f5a3197b6932827a94e51b4fb053dd597904c01de&=&format=webp&quality=lossless&width=437&height=437',
+    memberImage: '/images/black.png',
     memberName: 'Coming Soon',
     memberSocial: {
       linkedin: '/',
@@ -48,7 +48,7 @@ const teamData = [
     },
   },
   {
-    memberImage: 'https://media.discordapp.net/attachments/1211374771531415594/1220345515808395385/IMG_8637.png?ex=660e9a53&is=65fc2553&hm=9f132192b10ef635b8a5b42f5a3197b6932827a94e51b4fb053dd597904c01de&=&format=webp&quality=lossless&width=437&height=437',
+    memberImage: '/images/black.png',
     memberName: 'Coming Soon',
     memberSocial: {
       linkedin: '/',
@@ -58,7 +58,7 @@ const teamData = [
     },
   },
   {
-    memberImage: 'https://media.discordapp.net/attachments/1211374771531415594/1220345515808395385/IMG_8637.png?ex=660e9a53&is=65fc2553&hm=9f132192b10ef635b8a5b42f5a3197b6932827a94e51b4fb053dd597904c01de&=&format=webp&quality=lossless&width=437&height=437',
+    memberImage: '/images/black.png',
     memberName: 'Coming Soon',
     memberSocial: {
       linkedin: '/',
@@ -68,7 +68,7 @@ const teamData = [
     },
   },
   {
-    memberImage: 'https://media.discordapp.net/attachments/1211374771531415594/1220345515808395385/IMG_8637.png?ex=660e9a53&is=65fc2553&hm=9f132192b10ef635b8a5b42f5a3197b6932827a94e51b4fb053dd597904c01de&=&format=webp&quality=lossless&width=437&height=437',
+    memberImage: '/images/black.png',
     memberName: 'Coming Soon',
     memberSocial: {
       linkedin: '/',
@@ -78,7 +78,7 @@ const teamData = [
     },
   },
   {
-    memberImage: 'https://media.discordapp.net/attachments/1211374771531415594/1220345515808395385/IMG_8637.png?ex=660e9a53&is=65fc2553&hm=9f132192b10ef635b8a5b42f5a3197b6932827a94e51b4fb053dd597904c01de&=&format=webp&quality=lossless&width=437&height=437',
+    memberImage: '/images/black.png',
     memberName: 'Coming Soon',
     memberSocial: {
       linkedin: '/',

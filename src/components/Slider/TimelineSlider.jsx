@@ -6,46 +6,29 @@ import Timeline from '../Timeline';
 const timelineData = [
   [
     {
-      year: '2019',
-      name: 'Google awards',
-      position: 'Website of the day',
-      type: 'Mobile exelence',
+      year: '21.6B',
+      name: 'Global Market Size',
+     
     },
     {
-      year: '2021',
-      name: 'CSS awards design',
-      position: 'Honorable mention',
-      type: 'Desktop exelence',
+      year: '89%',
+      name: 'Effectiveness',
+    
     },
   ],
   [
     {
-      year: '2020',
-      name: 'New technology innovation',
-      position: 'Honorable mention',
-      type: 'Desktop exelence',
+      year: '40%',
+      name: 'Of Marketers Use Influencer Marketing',
+      
     },
     {
-      year: '2022',
-      name: 'UI/UX design of the month',
-      position: 'Website of the day',
-      type: 'Mobile exelence',
+      year: '69%',
+      name: 'Of Consumers Trust Influencers',
+      
     },
   ],
-  [
-    {
-      year: '2019',
-      name: 'Google awards',
-      position: 'Website of the day',
-      type: 'Mobile exelence',
-    },
-    {
-      year: '2021',
-      name: 'CSS awards design',
-      position: 'Honorable mention',
-      type: 'Desktop exelence',
-    },
-  ],
+  
 ];
 
 export default function TimelineSlider() {

@@ -23,11 +23,11 @@ const heroSocialLinks = [
   },
   {
     name: 'LinkedDIn',
-    links: '/',
+    links: 'https://www.linkedin.com/company/influx-management/?viewAsMember=true',
   },
   {
     name: 'Twitter',
-    links: '/',
+    links: 'https://twitter.com/InfluxMGMT',
   },
 ];
 
@@ -185,8 +185,8 @@ export default function Home() {
           <Div className="row">
             <Div className="col-xl-4">
               <SectionHeading
-                title="We get multiple awards"
-                subtitle="Our Awards"
+                title="Infleuncer Marketing industry"
+                subtitle="Our Industry"
                 variant="cs-style1"
               />
               <Spacing lg="90" md="45" />
@@ -204,13 +204,7 @@ export default function Home() {
       <Spacing lg="105" md="70" />
       {/* End MovingText Section */}
 
-      {/* Start LogoList Section */}
-      <Div className="container">
-        <LogoList />
-      </Div>
-      <Spacing lg="150" md="80" />
-      {/* End LogoList Section */}
-
+     
      
 
       {/* Start Team Section */}

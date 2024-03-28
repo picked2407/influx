@@ -3,7 +3,7 @@ import Div from '../Div';
 import './logolist.scss';
 const partnerLogos = [
   {
-    src: '/images/partner_1.svg',
+    src: 'https://media.discordapp.net/attachments/1211374771531415594/1220823301761273887/HelloFresh-Logo-White-Transparent-Insight-Platforms.png?ex=6610574c&is=65fde24c&hm=c9aa7d002d2b233aa764e5bae7d144281e5ff344d13afa7ce5ddae2212fdb858&=&format=webp&quality=lossless&width=613&height=613',
     alt: 'Partner',
   },
   {
