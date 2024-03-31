@@ -221,10 +221,7 @@ export default function Home() {
       <Spacing lg="150" md="80" />
       {/* End Team Section */}
 
-      {/* Start Testimonial Section */}
-      <TestimonialSlider />
-      {/* End Testimonial Section */}
-
+  
     
      
 

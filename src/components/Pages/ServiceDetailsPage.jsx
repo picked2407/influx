@@ -37,7 +37,6 @@ export default function ServiceDetailsPage() {
 
    
       <Spacing lg='150' md='80'/>
-      <TestimonialSlider />
       <Spacing lg='145' md='80'/>
       <Div className="container cs-shape_wrap_4">
         <Div className="cs-shape_4"></Div>
